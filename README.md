@@ -14,9 +14,22 @@ DISCRIMINATOR              | GENERATOR
 ![](https://user-images.githubusercontent.com/57104110/136574739-17668993-2321-4c3b-9e6d-3efacf92deaf.png) | ![](https://user-images.githubusercontent.com/57104110/136574554-73fcf4d8-0c80-4b44-a76c-b33b910dc221.png)
 
 ## Results
-The best results were obtained by achieving a State of the Art FID score of 11.7! Some examples:
+The best results were obtained by achieving a State of the Art FID score of 11.7! Some examples below:
 
 * Female, young, attractive, brown_hair, bangs, heavy_make_up, no_beard
+![alt text](https://user-images.githubusercontent.com/57104110/136577480-81236702-3963-4d59-bffb-c582cca756c7.png)
+
+* Female, young, attractive, blonde_hair, smiling, eyeglasses, no_beard
+![alt_text](https://user-images.githubusercontent.com/57104110/136577548-8f4dc5cf-87c4-47ec-b107-efaf762d46c0.png)
+
+* Male, attractive, brown_hair, straight_hair, smiling, eyeglasses, mustache
+![alt_text](https://user-images.githubusercontent.com/57104110/136577694-08a4f6bd-4eca-42fe-9c46-677f6d819b09.png)
+
+* Male, pale_skin, bald, bushy_eyebrows, arched_eyebrows, no_beard
+![alt_text](https://user-images.githubusercontent.com/57104110/136577663-84c3efd2-56eb-46bf-9aab-ea5c0b1d0f11.png)
+
+
+
 
 
 
