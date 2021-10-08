@@ -6,7 +6,7 @@ We work with CelebA dataset containing more than 200k images and 40 attributes a
 
 ![alt text](https://user-images.githubusercontent.com/57104110/136570871-795253b7-f514-45d8-a471-0568c9cc618b.png)
 
+## Model Architecture
+![alt text](https://user-images.githubusercontent.com/57104110/136572495-3c7b572a-9f6b-4018-9533-84acee5af049.png)
 
 
-
-##
