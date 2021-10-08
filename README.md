@@ -3,7 +3,10 @@
 ## Description
 In this project we investigate several techniques of generative models. Among them, we focus our attention on the ones considered by us the best in terms of results furnished. The goal here is to provide the best generation of images having specific attributes chosen directly by the user. 
 We work with CelebA dataset containing more than 200k images and 40 attributes annotations per image. The quality of the generated images is measured using the Fréchet Inception Distance (FID).
-![image](https://user-images.githubusercontent.com/57104110/136570281-0b56103c-a14a-4ca7-a8db-dac99a62015b.png)
+
+![alt text](https://user-images.githubusercontent.com/57104110/136570871-795253b7-f514-45d8-a471-0568c9cc618b.png)
+
+
 
 
 ##
