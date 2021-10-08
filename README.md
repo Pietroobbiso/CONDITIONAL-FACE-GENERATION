@@ -16,8 +16,8 @@ DISCRIMINATOR              | GENERATOR
 ## Results
 The best results were obtained by achieving a State of the Art FID score of 11.7! Some examples:
 
-*Female, young, attractive, brown_hair, bangs, heavy_make_up, no_beard
-![alt text](https://user-images.githubusercontent.com/57104110/136577318-26a95ede-567f-4dcc-a36d-bfc6b3b4522f.png)
+* Female, young, attractive, brown_hair, bangs, heavy_make_up, no_beard
+
 
 
 
