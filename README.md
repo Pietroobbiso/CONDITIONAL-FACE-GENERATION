@@ -9,6 +9,6 @@ We work with CelebA dataset containing more than 200k images and 40 attributes a
 ## Model Architecture
          DISCRIMINATOR            |    GENERATOR
 :-------------------------:|:-------------------------:
-![](https://user-images.githubusercontent.com/57104110/136574739-17668993-2321-4c3b-9e6d-3efacf92deaf.png) |  ![]!(https://user-images.githubusercontent.com/57104110/136574554-73fcf4d8-0c80-4b44-a76c-b33b910dc221.png)
+![](https://user-images.githubusercontent.com/57104110/136574739-17668993-2321-4c3b-9e6d-3efacf92deaf.png)|![](https://user-images.githubusercontent.com/57104110/136574554-73fcf4d8-0c80-4b44-a76c-b33b910dc221.png)
 
 
