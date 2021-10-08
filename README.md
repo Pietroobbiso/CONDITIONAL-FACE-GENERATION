@@ -7,6 +7,8 @@ We work with CelebA dataset containing more than 200k images and 40 attributes a
 ![alt text](https://user-images.githubusercontent.com/57104110/136570871-795253b7-f514-45d8-a471-0568c9cc618b.png)
 
 ## Model Architecture
+For all experiments we used the same DCGAN (Deep Convolutional Neural Networks) [10] architecture, structured in the following way:
+
 DISCRIMINATOR              | GENERATOR
 :-------------------------:|:-------------------------:
 ![](https://user-images.githubusercontent.com/57104110/136574739-17668993-2321-4c3b-9e6d-3efacf92deaf.png) | ![](https://user-images.githubusercontent.com/57104110/136574554-73fcf4d8-0c80-4b44-a76c-b33b910dc221.png)
